@@ -1,3 +1,4 @@
+
 # FlowCode — Source Code to Flowchart Generator
 > **Compiler Design Laboratory Course Project**  
 > An interactive full-stack web application that translates a restricted C-like programming language into interactive flowcharts while visualizing all classical compiler phases.
@@ -194,3 +195,6 @@ This automatically invokes `win_bison` and `win_flex` to generate `parser.tab.c`
    - Demonstrates syntax error detection for missing semicolons and unclosed parentheses.
 7. **Lexical Error Test (`lexical_error`)**:
    - Demonstrates lexical error detection for illegal characters (`@`).
+=======
+# Compiler-Design
+
